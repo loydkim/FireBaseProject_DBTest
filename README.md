@@ -4,8 +4,6 @@
 
 Please watch the youtube video to set up it
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a6OCT3XuxWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 * Reference links:
 
 1. Youtube link: https://youtu.be/a6OCT3XuxWo
