@@ -4,6 +4,8 @@
 
 Please watch the youtube video to set up it
 
+[![Youtube](https://img.youtube.com/vi/a6OCT3XuxWo/0.jpg)](https://www.youtube.com/watch?v=a6OCT3XuxWo)
+
 * Reference links:
 
 1. Youtube link: https://youtu.be/a6OCT3XuxWo
